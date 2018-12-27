@@ -21,4 +21,5 @@
    
    ### Similarly, repeating with each pair of different movies, we can calculate the similarities between them. The result will be the      similarity matrix between the movies.
    
-   
+   ### Step 4: Find the predicted movie with the highest rating
+   At the last step, we sort the results in the predicted matrix and select the highest rated result to suggest to the user.
