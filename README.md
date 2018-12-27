@@ -1,5 +1,7 @@
 # Recommender System
 # Introduction
+ Recommendation system (sometimes replacing "system" with a synonym such as platform or engine) is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item.
+ Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. 
 # Libraries
 
 # Steps
